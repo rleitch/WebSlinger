@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A41CC076-2F2E-42F5-BE5B-9EB1129D7341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSlinger.BlazorApp", "src\WebSlinger.BlazorApp\WebSlinger.BlazorApp.csproj", "{108BE3DF-C462-4394-83EF-39C6F011BF44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108BE3DF-C462-4394-83EF-39C6F011BF44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108BE3DF-C462-4394-83EF-39C6F011BF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108BE3DF-C462-4394-83EF-39C6F011BF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108BE3DF-C462-4394-83EF-39C6F011BF44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{108BE3DF-C462-4394-83EF-39C6F011BF44} = {A41CC076-2F2E-42F5-BE5B-9EB1129D7341}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {368939A8-4541-446B-90A8-F5D84A5734F4}
+	EndGlobalSection
+EndGlobal
